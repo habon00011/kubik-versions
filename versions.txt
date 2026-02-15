@@ -1,2 +1,2 @@
 kubik_electricianjob:1.1.1
-kubik_builderjob:1.2.0
+kubik_builderjob:1.1.6
